@@ -1,0 +1,12 @@
+{
+  "name": "mytunes",
+  "version": "1.0.0",
+  "description": "my tune app",
+  "main": "index.js",
+  "homepage": "https://godiatima.github.io/myTunes",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "author": "Godfrey Atima",
+  "license": "MIT"
+}
